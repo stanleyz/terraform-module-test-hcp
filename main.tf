@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "example" {
   name     = "rg-sztest-01"
-  location = "newzealandnorth"
+  location = var.location
 }
 
 module "test" {
