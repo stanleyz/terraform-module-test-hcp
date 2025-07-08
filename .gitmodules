@@ -1,4 +1,0 @@
-[submodule "module"]
-	path = module
-	url = git@github.com:Azure/terraform-azurerm-network-security-group.git
-	tag = 4.1.0
